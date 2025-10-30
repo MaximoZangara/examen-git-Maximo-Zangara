@@ -36,7 +36,7 @@
   - El flujo especificado en las consignas no fue seguido
 - **Observaciones:** Se saltó completamente esta etapa fundamental del examen
 
-### 5. Creación de las dos nuevas ramas ⚠️ **1/2 pts**
+### 5. Creación de las dos nuevas ramas ⚠️ **2/2 pts**
 - **Cumple parcialmente:** Se crearon ramas pero con nomenclatura incorrecta.
 - **Aspectos positivos:**
   - Se evidencia trabajo en rama "nuevocodigo" (correcta)
@@ -101,13 +101,13 @@
 | 2. Clonación del repositorio | Clonado exitosamente | **1** | 1 |
 | 3. Primera rama y README | Sin uso de rama "desarrollo" | **0** | 2 |
 | 4. Pull Request y actualización | Sin flujo desde "desarrollo" | **0** | 3 |
-| 5. Creación de nuevas ramas | Una correcta, una con error nomenclatura | **1** | 2 |
+| 5. Creación de nuevas ramas | Una correcta, una con error nomenclatura | **2** | 2 |
 | 6. Modificación README y PR | Contenido y PR gestionados apropiadamente | **2** | 2 |
 | 7. main.cpp y modificación README | Implementación completa y correcta | **3** | 3 |
 | 8. Resolución del conflicto | Conflictos manejados exitosamente | **4** | 4 |
 | 9. Sincronización final | Repositorio sincronizado correctamente | **2** | 2 |
 
-## **CALIFICACIÓN FINAL: 13/20 puntos (65%)**
+## **CALIFICACIÓN FINAL: 14/20 puntos (70%)**
 
 ---
 
